@@ -1,0 +1,332 @@
+body{
+	background-color: #EED6D3
+}
+h1 {
+	font-size: 30pt;
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	width: 44%;
+	margin-bottom: 30px;
+}
+
+caption {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+th, td {
+	padding: 10px;
+	text-align: left;
+}
+ 
+.firstyear {
+	width: 44%;
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+  }
+  #table1, #table2 {
+	width: 100%;
+  }
+  
+  #table2 {
+	float: right;
+  }
+  .secondyear {
+	width: 44%;
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+  }
+  #table3, #table4 {
+	width: 100%;
+  }
+  
+  #table4 {
+	float: right;
+  }
+
+  .thirdyear {
+	width: 44%;
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+  }
+  #table5, #table6 {
+	width: 100%;
+  }
+  
+  #table6 {
+	float: right;
+  }
+
+
+  .fourthyear {
+	width: 44%;
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+  }
+  #table7, #table8 {
+	width: 100%;
+  }
+  
+  #table8 {
+	float: right;
+  }
+ 
+
+
+table:nth-of-type(1) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(1) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(1) th,
+table:nth-of-type(1) td {
+	border: 1px solid #ccc;
+}
+
+
+table:nth-of-type(2) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(2) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(2) th,
+table:nth-of-type(2) td {
+	border: 1px solid #ccc;
+}
+
+
+table:nth-of-type(3) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(3) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(3) th,
+table:nth-of-type(3) td {
+	border: 1px solid #ccc;
+}
+
+
+table:nth-of-type(4) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(4) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(4) th,
+table:nth-of-type(4) td {
+	border: 1px solid #ccc;
+}
+
+table:nth-of-type(5) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(5) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(5) th,
+table:nth-of-type(5) td {
+	border: 1px solid #ccc;
+}
+
+
+
+table:nth-of-type(6) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(6) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(6) th,
+table:nth-of-type(6) td {
+	border: 1px solid #ccc;
+}
+
+table:nth-of-type(7) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(7) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(7) th,
+table:nth-of-type(7) td {
+	border: 1px solid #ccc;
+}
+
+table:nth-of-type(8) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(8) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(8) th,
+table:nth-of-type(8) td {
+	border: 1px solid #ccc;
+}
+table:nth-of-type(9) {
+	border: 2px solid #ccc;
+	background-color: #f7f7f7;
+}
+
+table:nth-of-type(9) th {
+	background-color: #E8B4B8;
+	color: #fff;
+}
+
+table:nth-of-type(9) th,
+table:nth-of-type(9) td {
+	border: 1px solid #ccc;
+}
+
+.table {
+	clear: both;
+}
+.backto {
+	font-size: 20pt;
+	text-align: center;
+}
+
+
+
+
+/*----------------------------------*/
+/*----------------------------------*/
+/*----------------------------------*/
+/*----------------------------------*/
+/*----------------------------------*/
+/*----------------------------------*/
+/*----------------------------------*/
+/*----------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 800px){
+	body{
+		background-color: #EED6D3
+	}
+	h1 {
+		font-size: 30pt;
+		text-align: center;
+	}
+	table {
+		border-collapse: collapse;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	
+	caption {
+		font-weight: bold;
+		margin-bottom: 10px;
+	}
+	
+	th, td {
+		padding: 10px;
+		text-align: left;
+	}
+	 
+	.firstyear {
+		width: 100%;
+		float: left;
+		margin-left: 30px;
+		margin-right: 30px;
+	  }
+	  #table1, #table2 {
+		width: 100%;
+	  }
+	  
+	  #table2 {
+		float: right;
+	  }
+	  .secondyear {
+		width: 100%;
+		float: left;
+		margin-left: 30px;
+		margin-right: 30px;
+	  }
+	  #table3, #table4 {
+		width: 100%;
+	  }
+	  
+	  #table4 {
+		float: right;
+	  }
+	
+	  .thirdyear {
+		width: 100%;
+		float: left;
+		margin-left: 30px;
+		margin-right: 30px;
+	  }
+	  #table5, #table6 {
+		width: 100%;
+	  }
+	  
+	  #table6 {
+		float: right;
+	  }
+	
+	
+	  .fourthyear {
+		width: 100%;
+		float: left;
+		margin-left: 30px;
+		margin-right: 30px;
+	  }
+	  #table7, #table8 {
+		width: 100%;
+	  }
+	  
+	  #table8 {
+		float: right;
+	  }
+}
